@@ -1,0 +1,143 @@
+
+.card{
+    display: flex;
+    gap: 2rem;
+}
+.card1{
+    display: flex;
+    align-items:  center;
+    gap: 2rem;
+    background: rgb(18, 158, 18);
+    margin: 20px 0;
+    padding: 20px;
+    height: fit-content;
+    width: fit-content;
+    border-radius: 20px;
+}
+.cardd button{
+    background-color: transparent;
+    border:  1px solid white;
+    border-radius: 10px;
+    color: white;
+    padding: 06px;
+    margin: 20px 0;
+}
+.cardimg img{
+    height: 200px;
+}
+
+.card2 img{
+    height: 200px;
+}
+.card2{
+    background: orange;
+    border-radius: 15px;
+    height: 250px;
+    margin: 20px 0;
+    
+}
+.cardd1{
+    background: url(../../assets/card2.png);
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 250px;
+    background-size: contain;
+    z-index: 100;
+    position: relative;
+}
+.cardd2 h3{
+    background: rgba(53, 52, 52, 0.5);
+    height: 25px;
+    width: 230px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 0 0 15px 15px;
+    position: absolute;
+    bottom: 0;
+}
+
+
+
+
+
+.card3{
+    background: rgb(228, 77, 31);
+    border-radius: 15px;
+    height: 250px;
+    margin: 10px 0;
+}
+.cardd3{
+    background: url(../../assets/card3.png);
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 250px;
+    background-size: contain;
+    z-index: 100;
+    position: relative;
+}
+.cardd4 h3{
+    background: rgba(53, 52, 52, 0.5);
+    height: 25px;
+    width: 230px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 0 0 15px 15px;
+    position: absolute;
+    bottom: 0;
+}
+.cardw1{
+    display: flex;
+    align-items:  center;
+    gap: 2rem;
+    background: rgb(129, 92, 37);
+    margin: 20px 0;
+    padding: 20px;
+    height: fit-content;
+    width: fit-content;
+    border-radius: 20px;
+}
+.cardimg3 img{
+    width: 170px;
+    height: 200px;
+}
+
+
+
+
+
+.cardw2{
+    display: flex;
+    align-items:  center;
+    gap: 2rem;
+    background: rgb(113, 34, 133);
+    margin: 20px 0;
+    padding: 20px;
+    height: fit-content;
+    width: fit-content;
+    border-radius: 20px;
+}
+.card4{
+    background: rgb(92, 28, 145);
+    border-radius: 15px;
+    height: 250px;
+    margin: 10px 0;
+}
+.cardd5{
+    background: url(../../assets/card2.png);
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 250px;
+    background-size: contain;
+    z-index: 100;
+    position: relative;
+}
+.cardd5 h3{
+    background: rgba(53, 52, 52, 0.5);
+    height: 25px;
+    width: 230px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 0 0 15px 15px;
+    position: absolute;
+    bottom: 0;
+}

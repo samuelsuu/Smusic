@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+
+.logo{
+    color: rgb(247, 210, 4, 0.9);
+    font-size: 28px;
+    padding: 20px 0;
+}
+.menu{
+    border:0 1px 0 0 solid white;
+    height: 100%;
+    line-height: 30px;
+    padding: 10px 20px;
+    background: rgb(26, 24, 24);
+    box-shadow: 2px 2px rgb(255, 255, 255, 0.5);
+}
+
+.menu1{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 0;
+    color: rgb(245, 244, 244, 0.5);
+}
+.link{
+    display: grid;
+    gap: 1rem;
+}

@@ -1,0 +1,10 @@
+.type{
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
+.type span{
+    background: rgb(145, 143, 143, 0.6);
+    padding: 5px;
+    border-radius: 20px;
+}
